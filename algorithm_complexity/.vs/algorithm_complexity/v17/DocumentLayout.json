@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeTest\\CPP\\data_structure\\algorithm_complexity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C795F400-3044-4425-9469-10A31A646C61}|algorithm_complexity\\algorithm_complexity.vcxproj|D:\\CodeTest\\CPP\\data_structure\\algorithm_complexity\\algorithm_complexity\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C795F400-3044-4425-9469-10A31A646C61}|algorithm_complexity\\algorithm_complexity.vcxproj|solutionrelative:algorithm_complexity\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\algorithm_complexity\\algorithm_complexity\\test.c",
+              "RelativeDocumentMoniker": "algorithm_complexity\\test.c",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\algorithm_complexity\\algorithm_complexity\\test.c",
+              "RelativeToolTip": "algorithm_complexity\\test.c",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-28T14:52:52.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

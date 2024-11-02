@@ -1,0 +1,3 @@
+﻿  test.c
+D:\CodeTest\CPP\data_structure\Sequential_List\Sequential_List\test.c(123,24): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  Sequential_List.vcxproj -> D:\CodeTest\CPP\data_structure\Sequential_List\x64\Debug\Sequential_List.exe

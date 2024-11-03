@@ -4,12 +4,11 @@
 #include<stdlib.h>
 #include<stdbool.h>
 
-typedef int BLTDataType;
 typedef struct BListNode
 {
-	struct BListNode* next; //指针保存下⼀个结点的地址
-	struct BListNode* prev; //指针保存前⼀个结点的地址
-	BLTDataType data;
+	struct BListNode* _next; //指针保存下⼀个结点的地址
+	struct BListNode* _prev; //指针保存前⼀个结点的地址
+	BLTDataType _data;
 }BLTNode;
 
 

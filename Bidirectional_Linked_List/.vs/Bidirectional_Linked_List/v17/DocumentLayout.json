@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9C672-74F3-4D5E-A8F2-F8EC3E5A7B62}|Bidirectional_Linked_List\\Bidirectional_Linked_List.vcxproj|D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\BList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE9C672-74F3-4D5E-A8F2-F8EC3E5A7B62}|Bidirectional_Linked_List\\Bidirectional_Linked_List.vcxproj|solutionrelative:Bidirectional_Linked_List\\BList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9C672-74F3-4D5E-A8F2-F8EC3E5A7B62}|Bidirectional_Linked_List\\Bidirectional_Linked_List.vcxproj|D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\BList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE9C672-74F3-4D5E-A8F2-F8EC3E5A7B62}|Bidirectional_Linked_List\\Bidirectional_Linked_List.vcxproj|solutionrelative:Bidirectional_Linked_List\\BList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9C672-74F3-4D5E-A8F2-F8EC3E5A7B62}|Bidirectional_Linked_List\\Bidirectional_Linked_List.vcxproj|D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE9C672-74F3-4D5E-A8F2-F8EC3E5A7B62}|Bidirectional_Linked_List\\Bidirectional_Linked_List.vcxproj|solutionrelative:Bidirectional_Linked_List\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BList.h",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\BList.h",
+              "RelativeDocumentMoniker": "Bidirectional_Linked_List\\BList.h",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\BList.h",
+              "RelativeToolTip": "Bidirectional_Linked_List\\BList.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T01:32:38.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BList.c",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\BList.c",
+              "RelativeDocumentMoniker": "Bidirectional_Linked_List\\BList.c",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\BList.c",
+              "RelativeToolTip": "Bidirectional_Linked_List\\BList.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-03T01:32:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\test.c",
+              "RelativeDocumentMoniker": "Bidirectional_Linked_List\\test.c",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\Bidirectional_Linked_List\\Bidirectional_Linked_List\\test.c",
+              "RelativeToolTip": "Bidirectional_Linked_List\\test.c",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-03T01:32:58.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

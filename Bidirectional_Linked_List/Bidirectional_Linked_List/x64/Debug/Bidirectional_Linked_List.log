@@ -1,0 +1,9 @@
+﻿  BList.c
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(11,3): warning C4033: “BLTInit”必须返回值
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(7,11): warning C4133: “初始化”: 从“BLTDataType *”到“BLTNode *”的类型不兼容
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(24,3): warning C4033: “BLTBuyNode”必须返回值
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(16,1): warning C4715: “BLTInit”: 不是所有的控件路径都返回值
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(30,1): warning C4715: “BLTBuyNode”: 不是所有的控件路径都返回值
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(49,1): warning C4716: “BLTEmpty”: 必须返回一个值
+D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\Bidirectional_Linked_List\BList.c(90,1): warning C4716: “BLTFind”: 必须返回一个值
+  Bidirectional_Linked_List.vcxproj -> D:\CodeTest\CPP\data_structure\Bidirectional_Linked_List\x64\Debug\Bidirectional_Linked_List.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1613BBD8-42E5-416F-AAC0-CDC84AB709DB}|BinaryTree\\BinaryTree.vcxproj|D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1613BBD8-42E5-416F-AAC0-CDC84AB709DB}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1613BBD8-42E5-416F-AAC0-CDC84AB709DB}|BinaryTree\\BinaryTree.vcxproj|D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\BinaryTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1613BBD8-42E5-416F-AAC0-CDC84AB709DB}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1613BBD8-42E5-416F-AAC0-CDC84AB709DB}|BinaryTree\\BinaryTree.vcxproj|D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1613BBD8-42E5-416F-AAC0-CDC84AB709DB}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 562,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.h",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\BinaryTree.h",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.h",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\BinaryTree.h",
+              "RelativeToolTip": "BinaryTree\\BinaryTree.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T12:47:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTree.c",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\BinaryTree.c",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.c",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\BinaryTree.c",
+              "RelativeToolTip": "BinaryTree\\BinaryTree.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-04T12:47:14.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\text.c",
+              "RelativeDocumentMoniker": "BinaryTree\\text.c",
+              "ToolTip": "D:\\CodeTest\\CPP\\data_structure\\BinaryTree\\BinaryTree\\text.c",
+              "RelativeToolTip": "BinaryTree\\text.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-04T12:46:49.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

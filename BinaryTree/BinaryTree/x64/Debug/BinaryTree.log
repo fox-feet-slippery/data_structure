@@ -1,0 +1,5 @@
+﻿  BinaryTree.c
+  text.c
+D:\CodeTest\CPP\data_structure\BinaryTree\BinaryTree\text.c(25,24): warning C4013: “BinaryTreeHeight”未定义；假设外部返回 int
+  正在生成代码...
+  BinaryTree.vcxproj -> D:\CodeTest\CPP\data_structure\BinaryTree\x64\Debug\BinaryTree.exe
